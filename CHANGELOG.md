@@ -1,5 +1,5 @@
-## [Unreleased]
+# Change Log
 
-## [0.1.0] - 2023-02-04
+Changes for each release are listed in this file.
 
-- Initial release
+This project adheres to [Semantic Versioning](https://semver.org/) for its releases.
